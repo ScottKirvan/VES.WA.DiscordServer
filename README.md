@@ -77,11 +77,21 @@ When a VES member violates this code it demeans the Society and the profession, 
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| VES gold color hex code | #d7a721 |
-| Blank Unicode Character* |  |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| VES gold color hex code |  ![#c7a721](https://via.placeholder.com/10/d7a721?text=+)#d7a721 |
+| Blank Unicode Character* | "᲼" | 
+| VES emoji: | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
+|   
+- blank image url:       |            xxxx |
+| VES thumbnail URL: | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| xxx        |            xxxx |
+| xxx        |            xxxx |
+| xxx        |            xxxx |
+| xxx        |            xxxx |
+| xxx        |            xxxx |
+| xxx        |            xxxx |
+| xxx        |            xxxx |
 
+| xxx |  xxx|
 ---
 ## License
 
