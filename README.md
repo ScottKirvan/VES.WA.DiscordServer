@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/discord/1052011377415438346?style=flat-square&label=discord&color=00ACD7">
   </a>
   <br />
-  <img src="assets/screengrab.png" alt="logo" width="266" height="auto" />
-  <br />
+  <img src="assets/screengrab.png" alt="logo" width="600" height="auto" />
+  <h4>
     <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Request Feature</a>
