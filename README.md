@@ -9,10 +9,10 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <h1>VES.Wa.DiscordServer Readme</h1>
   
   <p>
-	Companion docs for our Discord Server
+	Companion Documentation and Reference  for the VES Wa Discord Server
   </p>
   
   
@@ -57,7 +57,14 @@ ScottKirvan/VES.WA.DiscordServer
 <br />
 
 
-# [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate)
+# [VES.WA.DiscordServer](https://github.com/ScottKirvan/VES.WA.DiscordServer)
+
+## Code of Conduct
+
+## FAQ 
+
+ - TBD?
+	 - TBD.
 
 ## License
 
@@ -69,7 +76,9 @@ Distributed under the MIT License.  See [[LICENSE]]
 
 Scott Kirvan - ves_wa_discord@skvfx.com
 
-Project Link: https://github.com/ScottKirvan/ScooterGitTemplate
+Project Link: https://github.com/ScottKirvan/VES.WA.DiscordServer
+
+Server URL/Invite:  https://discord.gg/gQH4mXWQRT
 
 [CHANGELOG](notes/CHANGELOG.md)  
 [TODO](notes/TODO.md)
