@@ -35,6 +35,19 @@
 
 ## Admin/Mod Guidelines
 
+### PURPOSE
+
+Please keep the following in mind while moderating and/or encouraging or discouraging behaviors on the server:
+
+We're here to:
+- have fun
+- let people know what VES is
+- create networking opportunities
+- share common interests
+- mentor
+
+This applies to VES members and non-member users on the Washington VES Discord server.
+
 ### SERVER RULES
 
 - [Server Rules](docs/Server%20Rules.md)
