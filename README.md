@@ -59,7 +59,7 @@ ScottKirvan/VES.WA.DiscordServer
 
 ## SERVER RULES
 
-- [Server Rules](Server%20Rules.md)
+- [Server Rules](docs/Server%20Rules.md)
 - [Discord Community Guidelines](https://discordapp.com/guidelines "Discord Community Guidelines") 
 - [Discord TOS](https://discordapp.com/terms "Discord TOS") 
 
