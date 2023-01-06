@@ -31,7 +31,7 @@
     <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Request Feature</a>
 </div>
 
-![test](assets/screengrab.png)
+![VES WA Discord Server UI](assets/screengrab.png)
 
 ## Admin/Mod Guidelines
 
