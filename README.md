@@ -1,3 +1,7 @@
+
+<!--
+-->
+
 <div align="center">
   <img src="assets/266x51_ves_wa_logotype.png" alt="logo" width="266" height="auto" />
   <br />
