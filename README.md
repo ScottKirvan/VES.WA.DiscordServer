@@ -33,7 +33,6 @@
 
 ![test](assets/screengrab.png)
 
-
 ## Admin/Mod Guidelines
 
 ### SERVER RULES
@@ -67,14 +66,11 @@ Distributed under the MIT License.  See [LICENSE](LICENSE.md) for more informati
 
 ## Contact
 
-Scott Kirvan - ves_wa_discord@skvfx.com
-
-Project Link: https://github.com/ScottKirvan/VES.WA.DiscordServer
-
-Server URL/Invite:  https://discord.gg/gQH4mXWQRT
-
-[CHANGELOG](notes/CHANGELOG.md)  
-[TODO](notes/TODO.md)
+Scott Kirvan - ves_wa_discord@skvfx.com  
+Project Link: https://github.com/ScottKirvan/VES.WA.DiscordServer  
+Server URL/Invite:  https://discord.gg/gQH4mXWQRT  
+[CHANGELOG](notes/CHANGELOG.md)   
+[TODO](notes/TODO.md)  
 
 ## Acknowledgements
 
