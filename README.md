@@ -68,9 +68,7 @@ ScottKirvan/VES.WA.DiscordServer
 
 ## License
 
-Distributed under the MIT License.  See [[LICENSE]]
-
-
+Distributed under the MIT License.  See [LICENSE](LICENSE.md) for more information
 
 ## Contact
 
