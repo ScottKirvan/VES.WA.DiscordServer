@@ -57,6 +57,16 @@ ScottKirvan/VES.WA.DiscordServer
 <br />
 
 
+# Moderation
+
+Docs to be generated:
+
+- [ ]  set of guidelines or rules for the server. This can include guidelines for behavior, language, and content.
+- [ ] A code of conduct for moderators. This can outline the expectations and responsibilities of moderators, as well as any consequences for violating the code of conduct.
+- [ ] A moderation policy document. This can detail how moderators should handle different types of offenses, such as harassment, spam, or disruptive behavior.    
+- [ ] A process for handling user reports and appeals. This can outline the steps that moderators should take when a user reports a problem, and how users can appeal a moderation action if they feel it was unjust.
+- [ ] A list of frequently asked questions (FAQs) and answers. This can help moderators understand common questions and issues that may arise, and provide them with information they can use to help users.
+
 # [VES.WA.DiscordServer](https://github.com/ScottKirvan/VES.WA.DiscordServer)
 
 ## Code of Conduct
