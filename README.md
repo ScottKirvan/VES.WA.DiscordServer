@@ -26,11 +26,10 @@
   </a>
   <br />
   <img src="assets/screengrab.png" alt="logo" width="266" height="auto" />
-  <h4>
+  <br />
     <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Request Feature</a>
-  </h4>
 </div>
 
 ## Admin/Mod Guidelines
