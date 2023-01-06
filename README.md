@@ -72,6 +72,16 @@ When a VES member violates this code it demeans the Society and the profession, 
 
 ### FAQ
 - [ ] TBD:  A list of frequently asked questions (FAQs) and answers. This can help moderators understand common questions and issues that may arise, and provide them with information they can use to help users.
+
+### :art: Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| VES gold color hex code | #d7a721 |
+| Blank Unicode Character* |  |
+| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
+| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+
 ---
 ## License
 
