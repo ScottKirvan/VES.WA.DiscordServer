@@ -8,7 +8,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="assets/266x51_ves_wa_logotype.png" alt="logo" width="200" height="auto" />
+  <img src="assets/266x51_ves_wa_logotype.png" alt="logo" width="266" height="auto" />
   <h1>VES.Wa.DiscordServer Readme</h1>
   
   <p>
