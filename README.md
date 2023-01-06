@@ -69,24 +69,18 @@ Taken together, these represent the written behavior rules for our server.  We c
 
 -  [VES Code of Conduct](https://www.vesglobal.org/visual-effects-society-code-of-conduct/ "VES Code of Conduct")
 
-This Code of Conduct comes from VES, so it applies primarily to VES Members and Moderatorsapplies to guests, members, and moderators/staff on the Discord server.
+This Code of Conduct comes from VES, so it applies primarily to VES Members and Moderators.  Keep it in mind when dealing with conflicts or bad actors on the server.
 
-1.  A set of guidelines or rules for the server. This can include guidelines for behavior, language, and content.
-    
-2.  A code of conduct for moderators. This can outline the expectations and responsibilities of moderators, as well as any consequences for violating the code of conduct.
+When a VES member violates this code it demeans the Society and the profession, and could lead to consequences including loss of membership in the Society.
 
 ## MODERATION POLICY
-- [ ] TBD:  A moderation policy document. This can detail how moderators should handle different types of offenses, such as harassment, spam, or disruptive behavior.
+- [ ] TBD:  A moderation policy document. This can detail how moderators should handle different types of offenses, such as harassment, spam, or disruptive behavior.  Bans/timeouts/sin-bin
 
 ## MODERATION APPEALS
 - [ ] TBD:  A process for handling user reports and appeals. This can outline the steps that moderators should take when a user reports a problem, and how users can appeal a moderation action if they feel it was unjust.
 
 ## FAQ
 - [ ] TBD:  A list of frequently asked questions (FAQs) and answers. This can help moderators understand common questions and issues that may arise, and provide them with information they can use to help users.
-
-# [VES.WA.DiscordServer](https://github.com/ScottKirvan/VES.WA.DiscordServer)
-
-
 
 ## License
 
