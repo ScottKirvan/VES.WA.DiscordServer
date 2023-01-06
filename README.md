@@ -9,16 +9,8 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
   <img src="assets/266x51_ves_wa_logotype.png" alt="logo" width="266" height="auto" />
-  <h1>VES.Wa.DiscordServer Readme</h1>
-  
-  <p>
-	Companion Documentation and Reference  for the VES Wa Discord Server
-  </p>
-  
-  
-ScottKirvan/VES.WA.DiscordServer
+  <br />
 <!-- Badges -->
-<p>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/ScottKirvan/ScooterGitTemplate" alt="contributors" />
   </a>
@@ -41,20 +33,13 @@ ScottKirvan/VES.WA.DiscordServer
     <!--<img src="https://img.shields.io/discord/704680098577514527?style=flat-square&label=%F0%9F%92%AC%20discord&color=00ACD7">-->
     <img src="https://img.shields.io/discord/1052011377415438346?style=flat-square&label=discord&color=00ACD7">
   </a>
-</p>
-   
 <h4>
-    <a href="https://github.com/ScottKirvan/ScooterGitTemplate/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/ScottKirvan/ScooterGitTemplate">Documentation</a>
-  <span> · </span>
     <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Request Feature</a>
   </h4>
+  <img src="assets/266x51_ves_wa_logotype.png" alt="logo" width="266" height="auto" />
 </div>
-
-<br />
 
 ## Admin/Mod Guidelines
 
@@ -104,4 +89,4 @@ Server URL/Invite:  https://discord.gg/gQH4mXWQRT
  - [VES Global](https://VESGlobal.org)
 
 
-`-`
+`- end -`
