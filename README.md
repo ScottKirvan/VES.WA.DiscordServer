@@ -56,8 +56,9 @@ ScottKirvan/VES.WA.DiscordServer
 
 <br />
 
+## Admin/Mod Guidelines
 
-## SERVER RULES
+### SERVER RULES
 
 - [Server Rules](docs/Server%20Rules.md)
 - [Discord Community Guidelines](https://discordapp.com/guidelines "Discord Community Guidelines") 
@@ -65,7 +66,7 @@ ScottKirvan/VES.WA.DiscordServer
 
 Taken together, these represent the written behavior rules for our server.  We can't anticipate every possible shitty thing someone can do, so use these are intended as a starting point and anything beyond these are going to fall under "Common Sense," and will be a judgement call.
 
-## CODE OF CONDUCT
+### CODE OF CONDUCT
 
 -  [VES Code of Conduct](https://www.vesglobal.org/visual-effects-society-code-of-conduct/ "VES Code of Conduct")
 
@@ -73,15 +74,15 @@ This Code of Conduct comes from VES, so it applies primarily to VES Members and 
 
 When a VES member violates this code it demeans the Society and the profession, and could lead to consequences including loss of membership in the Society.
 
-## MODERATION POLICY
+### MODERATION POLICY
 - [ ] TBD:  A moderation policy document. This can detail how moderators should handle different types of offenses, such as harassment, spam, or disruptive behavior.  Bans/timeouts/sin-bin
 
-## MODERATION APPEALS
+### MODERATION APPEALS
 - [ ] TBD:  A process for handling user reports and appeals. This can outline the steps that moderators should take when a user reports a problem, and how users can appeal a moderation action if they feel it was unjust.
 
-## FAQ
+### FAQ
 - [ ] TBD:  A list of frequently asked questions (FAQs) and answers. This can help moderators understand common questions and issues that may arise, and provide them with information they can use to help users.
-
+---
 ## License
 
 Distributed under the MIT License.  See [LICENSE](LICENSE.md) for more information
@@ -96,3 +97,11 @@ Server URL/Invite:  https://discord.gg/gQH4mXWQRT
 
 [CHANGELOG](notes/CHANGELOG.md)  
 [TODO](notes/TODO.md)
+
+## Acknowledgements
+
+ - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
+ - [VES Global](https://VESGlobal.org)
+
+
+`-`
