@@ -57,24 +57,26 @@ ScottKirvan/VES.WA.DiscordServer
 <br />
 
 
-# Moderation
+# Moderator Documentation
+## SERVER RULES
+-   [Server Rules](Server%20Rules.md)
 
-Docs to be generated:
+## CODE OF CONDUCT
+-  [VES Code of Conduct](https://www.vesglobal.org/visual-effects-society-code-of-conduct/ "VES Code of Conduct")
+This Code of Conduct applies to guests, members, and moderators/staff on the Discord server.
 
-- [ ]  set of guidelines or rules for the server. This can include guidelines for behavior, language, and content.
-- [ ] [VES Code of Conduct](https://www.vesglobal.org/visual-effects-society-code-of-conduct/ "VES Code of Conduct")
-- [ ] A moderation policy document. This can detail how moderators should handle different types of offenses, such as harassment, spam, or disruptive behavior.    
-- [ ] A process for handling user reports and appeals. This can outline the steps that moderators should take when a user reports a problem, and how users can appeal a moderation action if they feel it was unjust.
-- [ ] A list of frequently asked questions (FAQs) and answers. This can help moderators understand common questions and issues that may arise, and provide them with information they can use to help users.
+## MODERATION POLICY
+- [ ] TBD:  A moderation policy document. This can detail how moderators should handle different types of offenses, such as harassment, spam, or disruptive behavior.
+
+## MODERATION APPEALS
+- [ ] TBD:  A process for handling user reports and appeals. This can outline the steps that moderators should take when a user reports a problem, and how users can appeal a moderation action if they feel it was unjust.
+
+## FAQ
+- [ ] TBD:  A list of frequently asked questions (FAQs) and answers. This can help moderators understand common questions and issues that may arise, and provide them with information they can use to help users.
 
 # [VES.WA.DiscordServer](https://github.com/ScottKirvan/VES.WA.DiscordServer)
 
-## Code of Conduct
 
-## FAQ 
-
- - TBD?
-	 - TBD.
 
 ## License
 
