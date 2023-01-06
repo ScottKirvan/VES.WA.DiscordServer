@@ -57,13 +57,23 @@ ScottKirvan/VES.WA.DiscordServer
 <br />
 
 
-# Moderator Documentation
 ## SERVER RULES
--   [Server Rules](Server%20Rules.md)
+
+- [Server Rules](Server%20Rules.md)
+- [Discord Community Guidelines](https://discordapp.com/guidelines "Discord Community Guidelines") 
+- [Discord TOS](https://discordapp.com/terms "Discord TOS") 
+
+Taken together, these represent the written behavior rules for our server.  We can't anticipate every possible shitty thing someone can do, so use these are intended as a starting point and anything beyond these are going to fall under "Common Sense," and will be a judgement call.
 
 ## CODE OF CONDUCT
+
 -  [VES Code of Conduct](https://www.vesglobal.org/visual-effects-society-code-of-conduct/ "VES Code of Conduct")
-This Code of Conduct applies to guests, members, and moderators/staff on the Discord server.
+
+This Code of Conduct comes from VES, so it applies primarily to VES Members and Moderatorsapplies to guests, members, and moderators/staff on the Discord server.
+
+1.  A set of guidelines or rules for the server. This can include guidelines for behavior, language, and content.
+    
+2.  A code of conduct for moderators. This can outline the expectations and responsibilities of moderators, as well as any consequences for violating the code of conduct.
 
 ## MODERATION POLICY
 - [ ] TBD:  A moderation policy document. This can detail how moderators should handle different types of offenses, such as harassment, spam, or disruptive behavior.
