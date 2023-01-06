@@ -59,5 +59,17 @@ ScottKirvan/ScooterGitTemplate
 
 # [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate)
 
+## License
+
+Distributed under the MIT License.  See [[LICENSE]]
+
+
+
+## Contact
+
+Scott Kirvan - ves_wa_discord@skvfx.com
+
+Project Link: https://github.com/ScottKirvan/ScooterGitTemplate
+
 [CHANGELOG](notes/CHANGELOG.md)  
 [TODO](notes/TODO.md)
