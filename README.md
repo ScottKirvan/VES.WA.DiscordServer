@@ -12,11 +12,11 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>Awesome Readme Template</h1>
   
   <p>
-    An awesome README template for your projects! 
+	Companion docs for our Discord Server
   </p>
   
   
-ScottKirvan/ScooterGitTemplate
+ScottKirvan/VES.WA.DiscordServer
 <!-- Badges -->
 <p>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/graphs/contributors">
