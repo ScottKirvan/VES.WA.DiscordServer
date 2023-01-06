@@ -32,7 +32,7 @@
     <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Request Feature</a>
   </h4>
 </div>
-
+![VES WA Discord](assets/screengrab.png)
 ## Admin/Mod Guidelines
 
 ### SERVER RULES
