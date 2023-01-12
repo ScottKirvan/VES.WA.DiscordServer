@@ -73,7 +73,7 @@ When a VES member violates this code it demeans the Society and the profession, 
 ### FAQ
 - [ ] TBD:  A list of frequently asked questions (FAQs) and answers. This can help moderators understand common questions and issues that may arise, and provide them with information they can use to help users.
 
-## Handy Elements for Discord FU
+## Handy Elements for Discord-fu
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
