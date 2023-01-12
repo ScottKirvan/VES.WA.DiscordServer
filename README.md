@@ -33,6 +33,9 @@
 
 ![VES WA Discord Server UI](assets/screengrab.png)
 
+
+<div style="float: right; width: 350px; height: 500px"><iframe src="https://discord.com/widget?id=1052011377415438346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>
+
 ## Admin/Mod Guidelines
 
 ### PURPOSE
