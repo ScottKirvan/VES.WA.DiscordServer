@@ -84,7 +84,7 @@ When a VES member violates this code it demeans the Society and the profession, 
 | Blank Unicode Character* | "᲼" | 
 | VES emoji: | `<:ves:1052452322757845083>` |
 | blank image url:       |            `https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png` |
-| VES thumbnail URL: | 'https://cdn.discordapp.com/attachments/1052449088211259403/1052489659495764079/ves_emoji.png'|
+| VES thumbnail URL: | [link](https://cdn.discordapp.com/attachments/1052449088211259403/1052489659495764079/ves_emoji.png)|
 | Server ID        |           `1052011377415438346` |
 | xxx        |            xxxx |
 | xxx        |            xxxx |
