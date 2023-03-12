@@ -36,11 +36,6 @@
 ## Admin/Mod Guidelines
 
 ### PURPOSE
-#### here's 4
-##### and 5
-###### finally, 6.
-
-
 Please keep the following in mind while moderating and/or encouraging or discouraging behaviors on the server:
 
 We're here to:
